@@ -1,8 +1,8 @@
 class Batty < Formula
   desc "Supervised agent execution for software teams"
   homepage "https://github.com/battysh/batty"
-  url "https://github.com/battysh/batty/archive/refs/tags/v0.3.0.tar.gz"
-  sha256 "a85cda24f46bd3620dc8c98b53ae0a5ab7a48d53c3f3903d775033454d02807c"
+  url "https://github.com/battysh/batty/archive/refs/tags/v0.1.0.tar.gz"
+  sha256 "6bbf3363975a283a7b63719de09a8424b291f44894f9487f5a1496f648390205"
   license "MIT"
 
   depends_on "rust" => :build
